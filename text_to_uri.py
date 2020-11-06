@@ -94,4 +94,5 @@ def simple_tokenize(text):
     """
     return wordfreq.tokenize(text, 'xx')
 
+print(standardized_uri('en', 'a test phrase'))
 
